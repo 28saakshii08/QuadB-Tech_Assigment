@@ -1,1 +1,1 @@
-# QuadB-Tech_Assigment
+# Tech_Assigment
